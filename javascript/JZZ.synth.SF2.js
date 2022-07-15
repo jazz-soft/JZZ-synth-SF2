@@ -20,7 +20,7 @@
 
   var _version = '0.0.0';
 
-  function Synth(port) {
+  function Synth() {
     var self = this;
     self.play = function(msg) {
 console.log(msg.toString());
