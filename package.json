@@ -2,7 +2,7 @@
   "name": "jzz-synth-sf2",
   "version": "0.0.0",
   "description": "coming soon...",
-  "main": "index.js",
+  "main": "javascript/JZZ.synth.SF2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint javascript"
@@ -13,7 +13,10 @@
     "jzz-midi-sf2": "^0.0.2"
   },
   "devDependencies": {
-    "eslint": "^8.19.0"
+    "eslint": "^8.19.0",
+    "grunt": "^1.5.3",
+    "grunt-contrib-jshint": "^3.2.0",
+    "grunt-contrib-uglify": "^5.2.2"
   },
   "repository": {
     "type": "git",
