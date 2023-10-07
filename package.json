@@ -9,11 +9,11 @@
   },
   "author": "jazz-soft (https://jazz-soft.net/)",
   "dependencies": {
-    "jzz": "^1.6.1",
-    "jzz-midi-sf2": "^0.0.2"
+    "jzz": "^1.7.1",
+    "jzz-midi-sf2": "^0.0.3"
   },
   "devDependencies": {
-    "eslint": "^8.37.0",
+    "eslint": "^8.50.0",
     "grunt": "^1.6.1",
     "grunt-contrib-jshint": "^3.2.0",
     "grunt-contrib-uglify": "^5.2.2"
